@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 import random
 
-fig = plt.figure()
+fig = plt.figure(figsize=(16,12))
 ax = fig.add_subplot(111,projection='3d')
 
 x1 = np.arange(-5,5,0.5)
@@ -14,8 +14,9 @@ ax.set_ylim(-5,5)
 ax.set_zlim(0,50)
 y = (x1**2) + (x2**2)
 
-ax.plot_surface(x1,x2,y,rstride=1,cstride=1,cmap='BuGn')
+ax.plot_surface(x1,x2,y,rstride=1,cstride=1,cmap='gnuplot')
 # ax.plot_wireframe(x1, x2, y, rstride=1, cstride=1)
+plt.figtext(0.5,0.95,"Sphere function",size="xx-large",ha='center')
 plt.show()
 
 # test = [[2.0,2.0],
