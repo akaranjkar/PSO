@@ -8,7 +8,14 @@ inertia = 0.729
 cognitive_learning_factor = 1.49445
 social_learning_factor = 1.49445
 
+def square(x):
+    return x ** 2
+
 def sphere(x):
+    # sum = 0.0
+    # for value in x:
+    #     sum += square(value)
+    # return sum
     return np.sum(x**2)
 
 class Particle:
@@ -35,8 +42,6 @@ for particle in particles:
 
 iterations = 0
 while(global_best_particle.current_error > 0.0001):
-    pr = cProfile.Profile()
-    pr.enable()
 
     for particle in particles:
         r1, r2 = random.random(), random.random()
@@ -44,6 +49,9 @@ while(global_best_particle.current_error > 0.0001):
             + cognitive_learning_factor * r1 * (particle.best_position - particle.current_position) \
             + social_learning_factor * r2 * (global_best_particle.best_position - particle.current_position)
         particle.current_position = np.clip(particle.current_position + particle.velocity, -5.0,5.0)
+
+    pr = cProfile.Profile()
+    pr.enable()
 
     for particle in particles:
         particle.current_error = sphere(particle.current_position)
@@ -53,11 +61,11 @@ while(global_best_particle.current_error > 0.0001):
         if particle.current_error < global_best_particle.least_error:
             global_best_particle = particle
 
-    print("Iteration {0}, Least error: {1}".format(iterations, global_best_particle.least_error))
-    iterations +=1
-
     pr.disable()
     pr.print_stats(sort='time')
+
+    print("Iteration {0}, Least error: {1}".format(iterations, global_best_particle.least_error))
+    iterations +=1
 
 print("Best particle found at position: {0}\nLeast error: {1}"
       .format(global_best_particle.current_position,global_best_particle.least_error))
