@@ -1,0 +1,815 @@
+Iteration 0, Least error: 5.500507374154834
+         149 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       10    0.000    0.000    0.000    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+        9    0.000    0.000    0.000    0.000 copy.py:67(copy)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1710(sum)
+       10    0.000    0.000    0.000    0.000 pso2.py:11(sphere)
+       10    0.000    0.000    0.000    0.000 {method 'clip' of 'numpy.ndarray' objects}
+        1    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1657(clip)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:55(_wrapfunc)
+       10    0.000    0.000    0.000    0.000 _methods.py:31(_sum)
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+       19    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+       10    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+        9    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+       20    0.000    0.000    0.000    0.000 {method 'random' of '_random.Random' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        9    0.000    0.000    0.000    0.000 {built-in method builtins.issubclass}
+
+
+Iteration 1, Least error: 4.685645426668468
+         137 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       10    0.000    0.000    0.000    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1710(sum)
+       10    0.000    0.000    0.000    0.000 pso2.py:11(sphere)
+        6    0.000    0.000    0.000    0.000 copy.py:67(copy)
+       10    0.000    0.000    0.000    0.000 {method 'clip' of 'numpy.ndarray' objects}
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:55(_wrapfunc)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1657(clip)
+        1    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+       10    0.000    0.000    0.000    0.000 _methods.py:31(_sum)
+        6    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+        6    0.000    0.000    0.000    0.000 {built-in method builtins.issubclass}
+       16    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+       20    0.000    0.000    0.000    0.000 {method 'random' of '_random.Random' objects}
+       10    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+Iteration 2, Least error: 3.130235477477903
+         125 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       10    0.000    0.000    0.000    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1710(sum)
+       10    0.000    0.000    0.000    0.000 pso2.py:11(sphere)
+       10    0.000    0.000    0.000    0.000 {method 'clip' of 'numpy.ndarray' objects}
+        3    0.000    0.000    0.000    0.000 copy.py:67(copy)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1657(clip)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:55(_wrapfunc)
+       10    0.000    0.000    0.000    0.000 _methods.py:31(_sum)
+        1    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+        3    0.000    0.000    0.000    0.000 {built-in method builtins.issubclass}
+       10    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+        3    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+       20    0.000    0.000    0.000    0.000 {method 'random' of '_random.Random' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+       13    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+
+
+Iteration 3, Least error: 0.5931330822099378
+         137 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       10    0.000    0.000    0.000    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+       10    0.000    0.000    0.000    0.000 pso2.py:11(sphere)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1710(sum)
+        6    0.000    0.000    0.000    0.000 copy.py:67(copy)
+       10    0.000    0.000    0.000    0.000 {method 'clip' of 'numpy.ndarray' objects}
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:55(_wrapfunc)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1657(clip)
+       10    0.000    0.000    0.000    0.000 _methods.py:31(_sum)
+        1    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+       16    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+       10    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+        6    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+        6    0.000    0.000    0.000    0.000 {built-in method builtins.issubclass}
+       20    0.000    0.000    0.000    0.000 {method 'random' of '_random.Random' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+Iteration 4, Least error: 0.5931330822099378
+         133 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       10    0.000    0.000    0.000    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+       10    0.000    0.000    0.000    0.000 pso2.py:11(sphere)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1710(sum)
+        5    0.000    0.000    0.000    0.000 copy.py:67(copy)
+       10    0.000    0.000    0.000    0.000 {method 'clip' of 'numpy.ndarray' objects}
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:55(_wrapfunc)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1657(clip)
+       10    0.000    0.000    0.000    0.000 _methods.py:31(_sum)
+        1    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+       10    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+       15    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+        5    0.000    0.000    0.000    0.000 {built-in method builtins.issubclass}
+       20    0.000    0.000    0.000    0.000 {method 'random' of '_random.Random' objects}
+        5    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+Iteration 5, Least error: 0.5931330822099378
+         121 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       10    0.000    0.000    0.000    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+       10    0.000    0.000    0.000    0.000 pso2.py:11(sphere)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1710(sum)
+       10    0.000    0.000    0.000    0.000 {method 'clip' of 'numpy.ndarray' objects}
+        2    0.000    0.000    0.000    0.000 copy.py:67(copy)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:55(_wrapfunc)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1657(clip)
+        1    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+       10    0.000    0.000    0.000    0.000 _methods.py:31(_sum)
+       20    0.000    0.000    0.000    0.000 {method 'random' of '_random.Random' objects}
+       10    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+       12    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+        2    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        2    0.000    0.000    0.000    0.000 {built-in method builtins.issubclass}
+
+
+Iteration 6, Least error: 0.04037013017131278
+         133 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       10    0.000    0.000    0.000    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1710(sum)
+       10    0.000    0.000    0.000    0.000 pso2.py:11(sphere)
+        5    0.000    0.000    0.000    0.000 copy.py:67(copy)
+       10    0.000    0.000    0.000    0.000 {method 'clip' of 'numpy.ndarray' objects}
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1657(clip)
+       10    0.000    0.000    0.000    0.000 _methods.py:31(_sum)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:55(_wrapfunc)
+        1    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+       15    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+       10    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+       20    0.000    0.000    0.000    0.000 {method 'random' of '_random.Random' objects}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+        5    0.000    0.000    0.000    0.000 {built-in method builtins.issubclass}
+        5    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+Iteration 7, Least error: 0.04037013017131278
+         129 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       10    0.000    0.000    0.000    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1710(sum)
+       10    0.000    0.000    0.000    0.000 pso2.py:11(sphere)
+        4    0.000    0.000    0.000    0.000 copy.py:67(copy)
+       10    0.000    0.000    0.000    0.000 {method 'clip' of 'numpy.ndarray' objects}
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:55(_wrapfunc)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1657(clip)
+        1    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+       10    0.000    0.000    0.000    0.000 _methods.py:31(_sum)
+       14    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+       10    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+       20    0.000    0.000    0.000    0.000 {method 'random' of '_random.Random' objects}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+        4    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+        4    0.000    0.000    0.000    0.000 {built-in method builtins.issubclass}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+Iteration 8, Least error: 0.04037013017131278
+         129 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       10    0.000    0.000    0.000    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1710(sum)
+       10    0.000    0.000    0.000    0.000 pso2.py:11(sphere)
+       10    0.000    0.000    0.000    0.000 {method 'clip' of 'numpy.ndarray' objects}
+        4    0.000    0.000    0.000    0.000 copy.py:67(copy)
+       10    0.000    0.000    0.000    0.000 _methods.py:31(_sum)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:55(_wrapfunc)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1657(clip)
+        1    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+       14    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+       10    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+        4    0.000    0.000    0.000    0.000 {built-in method builtins.issubclass}
+       20    0.000    0.000    0.000    0.000 {method 'random' of '_random.Random' objects}
+        4    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+Iteration 9, Least error: 0.002291025452879629
+         129 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       10    0.000    0.000    0.000    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1710(sum)
+       10    0.000    0.000    0.000    0.000 pso2.py:11(sphere)
+        4    0.000    0.000    0.000    0.000 copy.py:67(copy)
+       10    0.000    0.000    0.000    0.000 {method 'clip' of 'numpy.ndarray' objects}
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:55(_wrapfunc)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1657(clip)
+        1    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+       10    0.000    0.000    0.000    0.000 _methods.py:31(_sum)
+       20    0.000    0.000    0.000    0.000 {method 'random' of '_random.Random' objects}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+        4    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+       10    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+       14    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        4    0.000    0.000    0.000    0.000 {built-in method builtins.issubclass}
+
+
+Iteration 10, Least error: 0.002291025452879629
+         117 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       10    0.000    0.000    0.000    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+       10    0.000    0.000    0.000    0.000 pso2.py:11(sphere)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1710(sum)
+       10    0.000    0.000    0.000    0.000 {method 'clip' of 'numpy.ndarray' objects}
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1657(clip)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:55(_wrapfunc)
+        1    0.000    0.000    0.000    0.000 copy.py:67(copy)
+       10    0.000    0.000    0.000    0.000 _methods.py:31(_sum)
+        1    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+       10    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+       11    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+       20    0.000    0.000    0.000    0.000 {method 'random' of '_random.Random' objects}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.issubclass}
+        1    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+Iteration 11, Least error: 0.002291025452879629
+         117 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       10    0.000    0.000    0.000    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+       10    0.000    0.000    0.000    0.000 pso2.py:11(sphere)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1710(sum)
+       10    0.000    0.000    0.000    0.000 {method 'clip' of 'numpy.ndarray' objects}
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1657(clip)
+        1    0.000    0.000    0.000    0.000 copy.py:67(copy)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:55(_wrapfunc)
+        1    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+       10    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+       11    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+       10    0.000    0.000    0.000    0.000 _methods.py:31(_sum)
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+       20    0.000    0.000    0.000    0.000 {method 'random' of '_random.Random' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        1    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.issubclass}
+
+
+Iteration 12, Least error: 0.002291025452879629
+         121 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       10    0.000    0.000    0.000    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+       10    0.000    0.000    0.000    0.000 pso2.py:11(sphere)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1710(sum)
+       10    0.000    0.000    0.000    0.000 {method 'clip' of 'numpy.ndarray' objects}
+        2    0.000    0.000    0.000    0.000 copy.py:67(copy)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1657(clip)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:55(_wrapfunc)
+        1    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+       10    0.000    0.000    0.000    0.000 _methods.py:31(_sum)
+       10    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+       12    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+       20    0.000    0.000    0.000    0.000 {method 'random' of '_random.Random' objects}
+        2    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        2    0.000    0.000    0.000    0.000 {built-in method builtins.issubclass}
+
+
+Iteration 13, Least error: 0.002291025452879629
+         121 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       10    0.000    0.000    0.000    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+       10    0.000    0.000    0.000    0.000 pso2.py:11(sphere)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1710(sum)
+       10    0.000    0.000    0.000    0.000 {method 'clip' of 'numpy.ndarray' objects}
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1657(clip)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:55(_wrapfunc)
+        2    0.000    0.000    0.000    0.000 copy.py:67(copy)
+       10    0.000    0.000    0.000    0.000 _methods.py:31(_sum)
+        1    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+       10    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+        2    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+        2    0.000    0.000    0.000    0.000 {built-in method builtins.issubclass}
+       20    0.000    0.000    0.000    0.000 {method 'random' of '_random.Random' objects}
+       12    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+Iteration 14, Least error: 0.002291025452879629
+         121 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       10    0.000    0.000    0.000    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+       10    0.000    0.000    0.000    0.000 pso2.py:11(sphere)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1710(sum)
+       10    0.000    0.000    0.000    0.000 {method 'clip' of 'numpy.ndarray' objects}
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:55(_wrapfunc)
+        2    0.000    0.000    0.000    0.000 copy.py:67(copy)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1657(clip)
+        1    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+       10    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+       10    0.000    0.000    0.000    0.000 _methods.py:31(_sum)
+       20    0.000    0.000    0.000    0.000 {method 'random' of '_random.Random' objects}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+       12    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+        2    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        2    0.000    0.000    0.000    0.000 {built-in method builtins.issubclass}
+
+
+Iteration 15, Least error: 0.002291025452879629
+         117 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       10    0.000    0.000    0.000    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+       10    0.000    0.000    0.000    0.000 pso2.py:11(sphere)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1710(sum)
+       10    0.000    0.000    0.000    0.000 {method 'clip' of 'numpy.ndarray' objects}
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:55(_wrapfunc)
+        1    0.000    0.000    0.000    0.000 copy.py:67(copy)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1657(clip)
+        1    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+       10    0.000    0.000    0.000    0.000 _methods.py:31(_sum)
+       10    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+       11    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+       20    0.000    0.000    0.000    0.000 {method 'random' of '_random.Random' objects}
+        1    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.issubclass}
+
+
+Iteration 16, Least error: 0.001505104636939397
+         125 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       10    0.000    0.000    0.000    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+       10    0.000    0.000    0.000    0.000 pso2.py:11(sphere)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1710(sum)
+       10    0.000    0.000    0.000    0.000 {method 'clip' of 'numpy.ndarray' objects}
+        3    0.000    0.000    0.000    0.000 copy.py:67(copy)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:55(_wrapfunc)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1657(clip)
+        1    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+       10    0.000    0.000    0.000    0.000 _methods.py:31(_sum)
+       10    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+       20    0.000    0.000    0.000    0.000 {method 'random' of '_random.Random' objects}
+        3    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+       13    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+        3    0.000    0.000    0.000    0.000 {built-in method builtins.issubclass}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+Iteration 17, Least error: 0.001505104636939397
+         125 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       10    0.000    0.000    0.000    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+       10    0.000    0.000    0.000    0.000 pso2.py:11(sphere)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1710(sum)
+       10    0.000    0.000    0.000    0.000 {method 'clip' of 'numpy.ndarray' objects}
+        3    0.000    0.000    0.000    0.000 copy.py:67(copy)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1657(clip)
+        1    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:55(_wrapfunc)
+       10    0.000    0.000    0.000    0.000 _methods.py:31(_sum)
+       10    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+       13    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+       20    0.000    0.000    0.000    0.000 {method 'random' of '_random.Random' objects}
+        3    0.000    0.000    0.000    0.000 {built-in method builtins.issubclass}
+        3    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+Iteration 18, Least error: 0.001505104636939397
+         117 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       10    0.000    0.000    0.000    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1710(sum)
+       10    0.000    0.000    0.000    0.000 pso2.py:11(sphere)
+       10    0.000    0.000    0.000    0.000 {method 'clip' of 'numpy.ndarray' objects}
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:55(_wrapfunc)
+        1    0.000    0.000    0.000    0.000 copy.py:67(copy)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1657(clip)
+       10    0.000    0.000    0.000    0.000 _methods.py:31(_sum)
+        1    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+       20    0.000    0.000    0.000    0.000 {method 'random' of '_random.Random' objects}
+       10    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+        1    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+       11    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.issubclass}
+
+
+Iteration 19, Least error: 0.001505104636939397
+         117 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       10    0.000    0.000    0.000    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1710(sum)
+       10    0.000    0.000    0.000    0.000 pso2.py:11(sphere)
+       10    0.000    0.000    0.000    0.000 {method 'clip' of 'numpy.ndarray' objects}
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1657(clip)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:55(_wrapfunc)
+        1    0.000    0.000    0.000    0.000 copy.py:67(copy)
+        1    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+       10    0.000    0.000    0.000    0.000 _methods.py:31(_sum)
+       11    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+       10    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+        1    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.issubclass}
+       20    0.000    0.000    0.000    0.000 {method 'random' of '_random.Random' objects}
+
+
+Iteration 20, Least error: 0.001505104636939397
+         117 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       10    0.000    0.000    0.000    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1710(sum)
+       10    0.000    0.000    0.000    0.000 pso2.py:11(sphere)
+       10    0.000    0.000    0.000    0.000 {method 'clip' of 'numpy.ndarray' objects}
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:55(_wrapfunc)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1657(clip)
+        1    0.000    0.000    0.000    0.000 copy.py:67(copy)
+        1    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+       10    0.000    0.000    0.000    0.000 _methods.py:31(_sum)
+       10    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+       11    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+       20    0.000    0.000    0.000    0.000 {method 'random' of '_random.Random' objects}
+        1    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.issubclass}
+
+
+Iteration 21, Least error: 0.001505104636939397
+         125 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       10    0.000    0.000    0.000    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+       10    0.000    0.000    0.000    0.000 pso2.py:11(sphere)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1710(sum)
+       10    0.000    0.000    0.000    0.000 {method 'clip' of 'numpy.ndarray' objects}
+        3    0.000    0.000    0.000    0.000 copy.py:67(copy)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1657(clip)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:55(_wrapfunc)
+        1    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+       10    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+       10    0.000    0.000    0.000    0.000 _methods.py:31(_sum)
+        3    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+       20    0.000    0.000    0.000    0.000 {method 'random' of '_random.Random' objects}
+       13    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        3    0.000    0.000    0.000    0.000 {built-in method builtins.issubclass}
+
+
+Iteration 22, Least error: 0.001505104636939397
+         113 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       10    0.000    0.000    0.000    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1710(sum)
+       10    0.000    0.000    0.000    0.000 pso2.py:11(sphere)
+       10    0.000    0.000    0.000    0.000 {method 'clip' of 'numpy.ndarray' objects}
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:55(_wrapfunc)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1657(clip)
+        1    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+       10    0.000    0.000    0.000    0.000 _methods.py:31(_sum)
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+       10    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+       10    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+       20    0.000    0.000    0.000    0.000 {method 'random' of '_random.Random' objects}
+
+
+Iteration 23, Least error: 0.001505104636939397
+         125 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       10    0.000    0.000    0.000    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1710(sum)
+       10    0.000    0.000    0.000    0.000 pso2.py:11(sphere)
+       10    0.000    0.000    0.000    0.000 {method 'clip' of 'numpy.ndarray' objects}
+        3    0.000    0.000    0.000    0.000 copy.py:67(copy)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1657(clip)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:55(_wrapfunc)
+        1    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+       10    0.000    0.000    0.000    0.000 _methods.py:31(_sum)
+       13    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+       10    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+       20    0.000    0.000    0.000    0.000 {method 'random' of '_random.Random' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        3    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+        3    0.000    0.000    0.000    0.000 {built-in method builtins.issubclass}
+
+
+Iteration 24, Least error: 0.0014956224700617103
+         125 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       10    0.000    0.000    0.000    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1710(sum)
+       10    0.000    0.000    0.000    0.000 pso2.py:11(sphere)
+       10    0.000    0.000    0.000    0.000 {method 'clip' of 'numpy.ndarray' objects}
+        3    0.000    0.000    0.000    0.000 copy.py:67(copy)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:55(_wrapfunc)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1657(clip)
+       10    0.000    0.000    0.000    0.000 _methods.py:31(_sum)
+        1    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+       10    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+       13    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+       20    0.000    0.000    0.000    0.000 {method 'random' of '_random.Random' objects}
+        3    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        3    0.000    0.000    0.000    0.000 {built-in method builtins.issubclass}
+
+
+Iteration 25, Least error: 0.0014956224700617103
+         117 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       10    0.000    0.000    0.000    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+       10    0.000    0.000    0.000    0.000 pso2.py:11(sphere)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1710(sum)
+       10    0.000    0.000    0.000    0.000 {method 'clip' of 'numpy.ndarray' objects}
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:55(_wrapfunc)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1657(clip)
+        1    0.000    0.000    0.000    0.000 copy.py:67(copy)
+        1    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+       10    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+       10    0.000    0.000    0.000    0.000 _methods.py:31(_sum)
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+       20    0.000    0.000    0.000    0.000 {method 'random' of '_random.Random' objects}
+       11    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.issubclass}
+        1    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+Iteration 26, Least error: 0.0014956224700617103
+         117 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       10    0.000    0.000    0.000    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1710(sum)
+       10    0.000    0.000    0.000    0.000 pso2.py:11(sphere)
+       10    0.000    0.000    0.000    0.000 {method 'clip' of 'numpy.ndarray' objects}
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1657(clip)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:55(_wrapfunc)
+        1    0.000    0.000    0.000    0.000 copy.py:67(copy)
+       10    0.000    0.000    0.000    0.000 _methods.py:31(_sum)
+        1    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+       20    0.000    0.000    0.000    0.000 {method 'random' of '_random.Random' objects}
+       10    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+       11    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.issubclass}
+        1    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+Iteration 27, Least error: 0.0014956224700617103
+         117 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       10    0.000    0.000    0.000    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+       10    0.000    0.000    0.000    0.000 pso2.py:11(sphere)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1710(sum)
+       10    0.000    0.000    0.000    0.000 {method 'clip' of 'numpy.ndarray' objects}
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:55(_wrapfunc)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1657(clip)
+        1    0.000    0.000    0.000    0.000 copy.py:67(copy)
+       10    0.000    0.000    0.000    0.000 _methods.py:31(_sum)
+        1    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+       10    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+       20    0.000    0.000    0.000    0.000 {method 'random' of '_random.Random' objects}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+       11    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+        1    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.issubclass}
+
+
+Iteration 28, Least error: 0.0005333799763574601
+         117 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       10    0.000    0.000    0.000    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+       10    0.000    0.000    0.000    0.000 pso2.py:11(sphere)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1710(sum)
+       10    0.000    0.000    0.000    0.000 {method 'clip' of 'numpy.ndarray' objects}
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:55(_wrapfunc)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1657(clip)
+       10    0.000    0.000    0.000    0.000 _methods.py:31(_sum)
+        1    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+        1    0.000    0.000    0.000    0.000 copy.py:67(copy)
+       10    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+       20    0.000    0.000    0.000    0.000 {method 'random' of '_random.Random' objects}
+        1    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.issubclass}
+       11    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+
+
+Iteration 29, Least error: 0.0002611141500500387
+         125 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       10    0.000    0.000    0.000    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1710(sum)
+       10    0.000    0.000    0.000    0.000 pso2.py:11(sphere)
+       10    0.000    0.000    0.000    0.000 {method 'clip' of 'numpy.ndarray' objects}
+        3    0.000    0.000    0.000    0.000 copy.py:67(copy)
+       10    0.000    0.000    0.000    0.000 _methods.py:31(_sum)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:55(_wrapfunc)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1657(clip)
+        1    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+       13    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+       10    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+        3    0.000    0.000    0.000    0.000 {built-in method builtins.issubclass}
+        3    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+       20    0.000    0.000    0.000    0.000 {method 'random' of '_random.Random' objects}
+
+
+Iteration 30, Least error: 0.0002611141500500387
+         121 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       10    0.000    0.000    0.000    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1710(sum)
+       10    0.000    0.000    0.000    0.000 pso2.py:11(sphere)
+       10    0.000    0.000    0.000    0.000 {method 'clip' of 'numpy.ndarray' objects}
+        2    0.000    0.000    0.000    0.000 copy.py:67(copy)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:55(_wrapfunc)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1657(clip)
+       10    0.000    0.000    0.000    0.000 _methods.py:31(_sum)
+        1    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+       12    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+       10    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+       20    0.000    0.000    0.000    0.000 {method 'random' of '_random.Random' objects}
+        2    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        2    0.000    0.000    0.000    0.000 {built-in method builtins.issubclass}
+
+
+Iteration 31, Least error: 0.0002611141500500387
+         117 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       10    0.000    0.000    0.000    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+       10    0.000    0.000    0.000    0.000 pso2.py:11(sphere)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1710(sum)
+       10    0.000    0.000    0.000    0.000 {method 'clip' of 'numpy.ndarray' objects}
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:55(_wrapfunc)
+        1    0.000    0.000    0.000    0.000 copy.py:67(copy)
+        1    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1657(clip)
+       10    0.000    0.000    0.000    0.000 _methods.py:31(_sum)
+       10    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+       11    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+       20    0.000    0.000    0.000    0.000 {method 'random' of '_random.Random' objects}
+        1    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.issubclass}
+
+
+Iteration 32, Least error: 0.0002611141500500387
+         121 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       10    0.000    0.000    0.000    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1710(sum)
+       10    0.000    0.000    0.000    0.000 pso2.py:11(sphere)
+       10    0.000    0.000    0.000    0.000 {method 'clip' of 'numpy.ndarray' objects}
+        2    0.000    0.000    0.000    0.000 copy.py:67(copy)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:55(_wrapfunc)
+       10    0.000    0.000    0.000    0.000 _methods.py:31(_sum)
+        1    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1657(clip)
+       10    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+       12    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+       20    0.000    0.000    0.000    0.000 {method 'random' of '_random.Random' objects}
+        2    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        2    0.000    0.000    0.000    0.000 {built-in method builtins.issubclass}
+
+
+Iteration 33, Least error: 7.183189333522136e-05
+         121 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       10    0.000    0.000    0.000    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1710(sum)
+       10    0.000    0.000    0.000    0.000 pso2.py:11(sphere)
+       10    0.000    0.000    0.000    0.000 {method 'clip' of 'numpy.ndarray' objects}
+        2    0.000    0.000    0.000    0.000 copy.py:67(copy)
+        1    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+       10    0.000    0.000    0.000    0.000 _methods.py:31(_sum)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:1657(clip)
+       10    0.000    0.000    0.000    0.000 fromnumeric.py:55(_wrapfunc)
+       12    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+       10    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+       20    0.000    0.000    0.000    0.000 {method 'random' of '_random.Random' objects}
+        2    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+        2    0.000    0.000    0.000    0.000 {built-in method builtins.issubclass}
+
+
+Best particle found at position: [ 0.00330587  0.00780404]
+Least error: 7.183189333522136e-05
